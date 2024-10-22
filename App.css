@@ -1,0 +1,13 @@
+div {text-align: center;}
+
+.top {padding: 75px; background-color: #EDE4D1; border-radius: 27px;}
+h1 {color: white; font-weight:lighter}
+input {text-align: left; padding: 5px; padding-left: 13px; border-radius:99px 0px 0px 99px; border: 0px;}
+button {text-align: center; padding: 5px; border-radius: 0px 99px 99px 0px; border: 0px ; background-color: rgba(211, 211, 211, 0.537);}
+
+span {font-weight: bold;}
+
+table {margin-top: 15px; margin-bottom: 15px; border-radius: 15px;}
+th {text-align: right;}
+td {text-align: left;}
+
