@@ -1,4 +1,4 @@
-# similar item searcher  
+# similar item searcher Flask ver.  
 
 ## 開発環境・ライブラリー情報
 - Windows 11
