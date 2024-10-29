@@ -24,9 +24,10 @@
 `python -m venv venv`  
 6. 仮想環境のアクティベート  
 `.\venv\Scripts\activate`
+7. ライブラリーのインストール
+
 ## ディレクトリ構成
 ```
-7. ライブラリーのインストール
 .  
 └── react-info-app/  
     ├── .venv/  
