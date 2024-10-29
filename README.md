@@ -35,7 +35,8 @@
     ├── node_modules/  
     │   └── ...  
     ├── bakend/ #新規作成  
-    │   ├── venv   
+    │   ├── venv
+    │   │   └──...   
     │   ├── app.py or main.py #添付のapp.pyもしくはmain.py配置  
     │   └── info.db #添付のinfo.dbを配置  
     ├── public/    
