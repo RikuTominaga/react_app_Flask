@@ -15,7 +15,7 @@
 1. プロジェクト作成  
 `npx create-react-app react-info-app`
 2. backendフォルダーをreact-info-appに新規作成
-3. 添付のapp.py,info.dbをbackend配置
+3. 添付のapp.pyとinfo.dbをbackend配置
 4. App.jsとApp.cssを添付のApp.jsとApp.cssに書換
 5. 仮想環境の作成  
 `python -m venv venv`  
